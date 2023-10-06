@@ -1,0 +1,14 @@
+C:\Users\te-ti\OneDrive\Codigos_Fonte\CSHARP\desafio-projeto-fundamentos\bin\Debug\net8.0\desafio-projeto-fundamentos.exe
+C:\Users\te-ti\OneDrive\Codigos_Fonte\CSHARP\desafio-projeto-fundamentos\bin\Debug\net8.0\desafio-projeto-fundamentos.deps.json
+C:\Users\te-ti\OneDrive\Codigos_Fonte\CSHARP\desafio-projeto-fundamentos\bin\Debug\net8.0\desafio-projeto-fundamentos.runtimeconfig.json
+C:\Users\te-ti\OneDrive\Codigos_Fonte\CSHARP\desafio-projeto-fundamentos\bin\Debug\net8.0\desafio-projeto-fundamentos.dll
+C:\Users\te-ti\OneDrive\Codigos_Fonte\CSHARP\desafio-projeto-fundamentos\bin\Debug\net8.0\desafio-projeto-fundamentos.pdb
+C:\Users\te-ti\OneDrive\Codigos_Fonte\CSHARP\desafio-projeto-fundamentos\obj\Debug\net8.0\desafio-projeto-fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\te-ti\OneDrive\Codigos_Fonte\CSHARP\desafio-projeto-fundamentos\obj\Debug\net8.0\desafio-projeto-fundamentos.AssemblyInfoInputs.cache
+C:\Users\te-ti\OneDrive\Codigos_Fonte\CSHARP\desafio-projeto-fundamentos\obj\Debug\net8.0\desafio-projeto-fundamentos.AssemblyInfo.cs
+C:\Users\te-ti\OneDrive\Codigos_Fonte\CSHARP\desafio-projeto-fundamentos\obj\Debug\net8.0\desafio-projeto-fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\te-ti\OneDrive\Codigos_Fonte\CSHARP\desafio-projeto-fundamentos\obj\Debug\net8.0\desafio-projeto-fundamentos.dll
+C:\Users\te-ti\OneDrive\Codigos_Fonte\CSHARP\desafio-projeto-fundamentos\obj\Debug\net8.0\refint\desafio-projeto-fundamentos.dll
+C:\Users\te-ti\OneDrive\Codigos_Fonte\CSHARP\desafio-projeto-fundamentos\obj\Debug\net8.0\desafio-projeto-fundamentos.pdb
+C:\Users\te-ti\OneDrive\Codigos_Fonte\CSHARP\desafio-projeto-fundamentos\obj\Debug\net8.0\desafio-projeto-fundamentos.genruntimeconfig.cache
+C:\Users\te-ti\OneDrive\Codigos_Fonte\CSHARP\desafio-projeto-fundamentos\obj\Debug\net8.0\ref\desafio-projeto-fundamentos.dll
